@@ -1,0 +1,30 @@
+.col-lg-12 h4 {
+  text-align: center;
+  color: white;
+  margin-bottom: 15px;
+}
+.col-lg-12 {
+  border: 1px solid black;
+  margin-top: 4%;
+  background-color: gray;
+}
+.col-md-12 {
+  margin-right: auto;
+  margin-left: auto;
+}
+.col-sm-12,
+.col-xs-12 {
+  margin-right: auto;
+  margin-left: auto;
+}
+.col-lg-12 p {
+  color: black;
+}
+.navbar-nav .nav-item .nav-link {
+  text-align: center;
+  border: 0.5px solid black;
+}
+.navbar-nav .nav-item .re {
+  /* text-align: center; */
+  border: 0.5px solid black;
+}
